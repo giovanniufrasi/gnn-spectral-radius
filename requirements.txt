@@ -1,0 +1,9 @@
+# Original notebook: Python 3.12.
+# PyG and Matplotlib versions are recorded in the saved setup output.
+# The remaining packages are not an exact lock of the original environment.
+torch>=2.0
+torch-geometric==2.6.1
+matplotlib==3.9.2
+scikit-learn
+ipython
+jupyterlab
