@@ -1,0 +1,5 @@
+model,hidden_width,trainable_parameters,test_mse_mean,test_mse_sample_std,seed_count
+constant_baseline,,,113.7849,,0
+GCN,64,8513,11.4257,0.8455,3
+GCN_parameter_matched,101,20908,12.7500,0.3478,3
+GIN_fixed_epsilon_0,64,20993,0.0089,0.0026,3
